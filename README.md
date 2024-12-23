@@ -1,13 +1,6 @@
 # Fleet Management System Project
 
-This repository contains a Fleet Management Project developed using Spring framework with JWT security and REST API. The project aims to provide a comprehensive solution for managing a fleet of vehicles, including their drivers, availability, conformity and associated tasks[assigning trips and consumption].
-Features
-
-    JWT Security: Implements JSON Web Token (JWT) based authentication and authorization to ensure secure access to the APIs.
-    REST API: Provides a set of RESTful APIs for managing vehicles, drivers, trips, and other fleet-related entities.
-    Spring Framework: Utilizes the power of the Spring framework, including Spring Boot, Spring Security, and Spring Data JPA.
-    Database: Stores the fleet-related data in a relational database ( MySQL ) allowing for efficient querying and data management.
-    Test: Using Swagger.
+This repository contains a Fleet Management Project developed using Spring framework with JWT security and REST API. The project aims to provide a comprehensive solution for managing a fleet of vehicles, including their drivers, availability, conformity and associated tasks.
 
 # Setup and Installation
 
@@ -45,6 +38,3 @@ there are 3 roles :
     
     - Driver
       
-# CONTACT      
-
-If you have any questions or suggestions regarding the Fleet Management Project, please contact either @ayoubhessoune or @hichambouttaj.
